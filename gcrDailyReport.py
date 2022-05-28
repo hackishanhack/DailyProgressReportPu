@@ -132,7 +132,7 @@ if (sidebarContent == "Progress Report"):
     with(header):
         st.image('images/banner.png', use_column_width=True)
         st.markdown("<h1 style='text-align: center'><b>Daily Progress Report 🌩 Poornima University</b></h1>", unsafe_allow_html=True)
-        st.write("Last Updated On: " + date + "-2021")
+        st.write("Last Updated On: " + date + "-2022")
         st.write("#####")
 
     with(login):
