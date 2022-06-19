@@ -382,7 +382,7 @@ else:
         st.markdown("<h1><b>GoogleCloudReady Program Resources</b></h1>", unsafe_allow_html=True)
         st.markdown("<hr>", unsafe_allow_html=True)
 
-        st.subheader("**Program Deadline: 25 June, 2022**")
+        st.subheader("**Program Deadline: 8 July, 2022**")
 
         st.subheader("**Important Links**")
         st.write("🌐 [GCR Program Site](https://bit.ly/crf-site)")
